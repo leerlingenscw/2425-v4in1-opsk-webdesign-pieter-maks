@@ -1,18 +1,40 @@
-/************************* DEBUG SETTINGS *************************/
+.title{
+   color: rgb(186, 227, 255);
+   font-family: 'Times New Roman', serif;
+   text-align: center;
+   font-size: 80px;
+   margin-bottom: 10px;
+}
 
-/* Settings to help find errors in your css
-   uncomment to enable */
+.undertitle{
+   color: rgb(186, 227, 255);
+   text-align: center;
 
-/* Add dotted line around all boxes.
-   This makes size of boxes visible.
-   Warning 1: this settings may change your layout.
-   Warning 2: keep the * as selector for all tags when uncommenting. */
-/*  * {border: 1px dotted black;}   */
-  
-/* Add semi-transparant dark background to all boxes
-   The more boxes are on top of eachother the darker tghe background color
-   Warning: keep the * as selector for all tags when uncommenting. */
-/*  * {background-color: rgba(0,0,0,5%);}  */
+}
 
-/************************* YOUR SETTINGS *************************/
+body{
+   background-color: rgb(44, 44, 44);
+}
 
+listitem{
+   margin-left: 100px;
+   color:rgb(184, 177, 228);
+   width: 150px;
+   height: 40px;
+   font-size: 17px;
+   font-family: 'Times New Roman', Times, serif;
+}
+
+a:visited{
+   color: rgb(184, 177, 228);
+   background-color: transparent;
+   text-decoration: none;
+}
+
+.navigation{
+   margin-left: 100px;
+   font-size: 30px;
+   color: rgb(118, 139, 153);
+   margin-bottom: 10px;
+   margin-top: 150px;
+}
