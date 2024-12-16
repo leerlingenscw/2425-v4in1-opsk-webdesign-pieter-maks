@@ -2,15 +2,20 @@
    color: rgb(186, 227, 255);
    font-family: 'Times New Roman', serif;
    font-size: 80px;
-   margin-bottom: 10px;
+   margin-bottom: -10px;
    text-align: center;
+   margin-top: -20px;
+}
+
+.home-grid{
+   display: grid;
+   place-items: center;
 }
 
 .undertitle{
    color: rgb(186, 227, 255);
    font-family:Georgia, 'Times New Roman', Times, serif;
    font-size: auto;
-   margin-top: 200px;
    text-align: center;
 }
 
