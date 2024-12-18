@@ -81,7 +81,34 @@ body{
    display: block;
    padding: 10px;
 }
+
+.footer{
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: rgb(130, 174, 202);
+   color: white;
+}
+
+.footer p{
+   margin-left: 575px;
+}
+
 a:visited{
-   background-color: transparent;
+   background-color: rgb(255,255,255,0);
    text-decoration: none;
+}
+
+.contact-link:visited{
+   background-color: rgb(255,255,255,0);
+   text-decoration: none;
+}
+
+.contact-link:hover{
+   color: rgb(220,220,220)
+}
+
+.contact-link{
+   color: rgb(255, 255, 255)
 }
