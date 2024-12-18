@@ -30,7 +30,10 @@
  }
  
  .logo{
-    
+   border: none;
+   background-color: rgb(255,255,255,0);
+   margin: -5px;
+   margin-top: 0px;
  }
  
  div{
@@ -62,9 +65,23 @@
     text-decoration: none;
  }
  .tekst1{
-    padding-left: 400px;
-    padding-right: 1000px;
+    padding-left: 100px;
+    padding-right: 100px;
     padding-top: 100px;
+    color:aliceblue;
+    font-family:'Times New Roman', Times, serif;
+    grid-row: 1;
+ }
 
+ .digitale-veiligheid-img{
+   grid-row: 2;
+   margin-right: 100px;
+   margin-top: 200px;
+   border: 2px solid;
+   border-color: aliceblue;
+ }
 
+ .digitale-veiligheid-grid{
+   display: grid;
+   grid-template-columns: auto auto auto;
  }
