@@ -64,7 +64,11 @@
     background-color: transparent;
     text-decoration: none;
  }
- .digitale-veiligheid-tekst{
+
+
+
+
+ .tekst1{
     padding-left: 50px;
     padding-right: 50px;
     padding-top: 50px;
@@ -73,14 +77,59 @@
     font-family:'Times New Roman', Times, serif;
     font-size: 18px;
     grid-row: 1;
+    text-align: justify;
  }
+.lijst{
+   grid-row: 2;
+   padding-left: 50px;
+   padding-right: 50px;
+   text-align: justify;
+   color:aliceblue;
+   font-family:'Times New Roman', Times, serif;
+   font-size: 18px;
+ 
+}
+.vertrouwelijkheid{
+   grid-row: 3;
+   padding-left: 50px;
+   padding-right: 50px;
+   text-align: justify;
+   color:aliceblue;
+   font-family:'Times New Roman', Times, serif;
+   font-size: 18px;
+}
+.Integriteit{
+   grid-row: 4;
+   padding-left: 50px;
+   padding-right: 50px;
+   text-align: justify;
+   color:aliceblue;
+   font-family:'Times New Roman', Times, serif;
+   font-size: 18px;
+}
+
+.Beschikbaarheid{
+   grid-row: 5;
+   padding-left: 50px;
+   padding-right: 50px;
+   text-align: justify;
+   color:aliceblue;
+   font-family:'Times New Roman', Times, serif;
+   font-size: 18px;
+}
 
  .digitale-veiligheid-img{
    grid-row: 2;
    margin-right: 50px;
-   margin-top: 100px;
+   margin-top: 25px;
    border: 2px solid;
    border-color: aliceblue;
+ }
+
+ .ddosimg{
+   grid-row: 5;
+   grid-column: 2;
+   padding-top: 150px;
  }
 
  .digitale-veiligheid-grid{
