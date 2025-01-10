@@ -117,6 +117,7 @@
  .password-img{
    grid-row: 3;
    grid-column: 2;
+   margin-top: 100px;
  }
 
  .bedreigingen-grid{
