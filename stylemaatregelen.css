@@ -66,19 +66,20 @@
  }
  .maatregelen-tekst{
     padding-left: 50px;
-    padding-right: 50px;
+    padding-right: 300px;
     padding-top: 50px;
     margin-bottom: 50px;
     color:aliceblue;
     font-family:'Times New Roman', Times, serif;
     font-size: 18px;
     grid-row: 1;
+    text-align: justify;
  }
 
  .maatregelen-img{
    grid-row: 2;
-   margin-right: 50px;
-   margin-top: 50px;
+   margin-right: 100px;
+   margin-top: 150px;
    margin-bottom: 50px;
    border: 2px solid;
    border-color: rgb(130, 174, 202);
