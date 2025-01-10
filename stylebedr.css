@@ -103,6 +103,7 @@
    padding-left: 50px;
    padding-right: 200px;
    text-align: justify;
+   padding-bottom: 100px;
  }
 
  .bedreigingen-img{
@@ -110,14 +111,13 @@
    grid-column: 2;
    margin-right: 150px;
    margin-top: 50px;
-   
-   border: 2px solid;
-   border-color: aliceblue;
  }
  .password-img{
-   grid-row: 3;
+   grid-row: 4;
    grid-column: 2;
-   margin-top: 100px;
+   padding-right: 150px;
+   padding-top: 250px;
+   padding-left: 10px;
  }
 
  .bedreigingen-grid{
