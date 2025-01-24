@@ -132,10 +132,7 @@
    width: 100%;
    background-color: rgb(130, 174, 202);
    color: white;
-}
-
-.footer p{
-   margin-left: 575px;
+   justify-content: center;
 }
 
 .contact-link:visited{
