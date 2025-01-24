@@ -88,6 +88,10 @@
    font-size: 18px;
  
 }
+span{
+   color: white;
+}
+
 .vertrouwelijkheid{
    grid-row: 3;
    padding-left: 50px;
